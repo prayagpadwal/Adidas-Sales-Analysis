@@ -1,4 +1,6 @@
 # 🌟 Adidas-Sales-Analysis: Unraveling the Secrets of Adidas' Sales Success 📊
+## Snippet: ![Final Dashboard (1)](https://github.com/prayagpadwal/Adidas-Sales-Analysis/assets/65147413/aac32dfa-97cd-46a8-931f-3448588eddd2)
+
 
 ## 📌 KEY FINDINGS:
 
